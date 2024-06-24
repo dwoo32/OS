@@ -1,0 +1,19 @@
+# Ignore homework1 and homework2 generated files
+homework1/autojudge.c
+homework2/test1
+homework2/test1-1
+homework2/test2
+homework2/test2-1
+homework2/test3
+homework2/test3-1
+homework2/test4
+homework2/test4-1
+homework2/test4.c
+homework2/test5
+homework2/test5.c
+homework2/test6
+homework2/test6.c
+
+# Ignore note files
+../note/*.pdf
+
